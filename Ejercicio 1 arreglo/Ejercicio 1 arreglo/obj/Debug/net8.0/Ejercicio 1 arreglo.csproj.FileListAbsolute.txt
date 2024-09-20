@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\obj\Debug\net8.0\Ejercicio 1 arreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\obj\Debug\net8.0\Ejercicio 1 arreglo.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\obj\Debug\net8.0\Ejercicio 1 arreglo.AssemblyInfo.cs
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\obj\Debug\net8.0\Ejercicio 1 arreglo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\bin\Debug\net8.0\Ejercicio 1 arreglo.exe
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\bin\Debug\net8.0\Ejercicio 1 arreglo.deps.json
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\bin\Debug\net8.0\Ejercicio 1 arreglo.runtimeconfig.json
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\bin\Debug\net8.0\Ejercicio 1 arreglo.dll
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\bin\Debug\net8.0\Ejercicio 1 arreglo.pdb
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\obj\Debug\net8.0\Ejercicio 1 arreglo.dll
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\obj\Debug\net8.0\refint\Ejercicio 1 arreglo.dll
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\obj\Debug\net8.0\Ejercicio 1 arreglo.pdb
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\obj\Debug\net8.0\Ejercicio 1 arreglo.genruntimeconfig.cache
+C:\Users\admin\source\repos\Ejercicio 1 arreglo\Ejercicio 1 arreglo\obj\Debug\net8.0\ref\Ejercicio 1 arreglo.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\bin\Debug\net8.0\Ejercicio 2 Arreglos.exe
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\bin\Debug\net8.0\Ejercicio 2 Arreglos.deps.json
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\bin\Debug\net8.0\Ejercicio 2 Arreglos.runtimeconfig.json
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\bin\Debug\net8.0\Ejercicio 2 Arreglos.dll
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\bin\Debug\net8.0\Ejercicio 2 Arreglos.pdb
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\obj\Debug\net8.0\Ejercicio 2 Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\obj\Debug\net8.0\Ejercicio 2 Arreglos.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\obj\Debug\net8.0\Ejercicio 2 Arreglos.AssemblyInfo.cs
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\obj\Debug\net8.0\Ejercicio 2 Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\obj\Debug\net8.0\Ejercicio 2 Arreglos.dll
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\obj\Debug\net8.0\refint\Ejercicio 2 Arreglos.dll
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\obj\Debug\net8.0\Ejercicio 2 Arreglos.pdb
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\obj\Debug\net8.0\Ejercicio 2 Arreglos.genruntimeconfig.cache
+C:\Users\admin\source\repos\Ejercicio 2 Arreglos\Ejercicio 2 Arreglos\obj\Debug\net8.0\ref\Ejercicio 2 Arreglos.dll
